@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\bin\Debug\net7.0\DS2Recursion.exe
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\bin\Debug\net7.0\DS2Recursion.deps.json
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\bin\Debug\net7.0\DS2Recursion.runtimeconfig.json
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\bin\Debug\net7.0\DS2Recursion.dll
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\bin\Debug\net7.0\DS2Recursion.pdb
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.dll
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\refint\DS2Recursion.dll
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.pdb
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\DS2Recursion.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\DS2Recursion\DS2Recursion\obj\Debug\net7.0\ref\DS2Recursion.dll
